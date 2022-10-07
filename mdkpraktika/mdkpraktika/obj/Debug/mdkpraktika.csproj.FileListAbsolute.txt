@@ -1,0 +1,8 @@
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\bin\Debug\mdkpraktika.exe.config
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\bin\Debug\mdkpraktika.exe
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\bin\Debug\mdkpraktika.pdb
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\obj\Debug\mdkpraktika.csproj.AssemblyReference.cache
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\obj\Debug\mdkpraktika.csproj.SuggestedBindingRedirects.cache
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\obj\Debug\mdkpraktika.csproj.CoreCompileInputs.cache
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\obj\Debug\mdkpraktika.exe
+C:\Users\valia\source\repos\mdkpraktika\mdkpraktika\obj\Debug\mdkpraktika.pdb
